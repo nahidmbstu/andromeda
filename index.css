@@ -1,3 +1,14 @@
 h1 {
   color: purple;
+  font-weight: 700;
+}
+
+p {
+  text-align: justify;
+  vertical-align: middle;
+  line-height: 3em;
+}
+
+footer {
+  color: seagreen;
 }
